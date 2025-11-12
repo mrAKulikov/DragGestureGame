@@ -9,7 +9,7 @@ This project demonstrates gesture handling, layout management, and feedback anim
 
 ## Gameplay
 
-![Gameplay Preview](Preview/screenshot.gif)
+![Gameplay Preview](screenshot.gif)
 
 > The goal: match each color square to its correct color name.  
 > If you make a mistake, the screen shakes to indicate the wrong answer.
